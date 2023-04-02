@@ -5,7 +5,7 @@ This is a mini template website created using Tailwind CSS and Animate.css. The 
 ## Preview
 
 ![Website Preview](https://user-images.githubusercontent.com/91268029/229331530-583509eb-e745-43eb-90a8-f4543d768a65.png)
-You can view a live version of the website on [CodeSandbox](https://codesandbox.io/s/tailwindcss-jash-esskks).
+You can view a live version of the website on [CodeSandbox](https://codesandbox.io/p/sandbox/tailwind-css-jash-esskks).
 
 ## Installation
 
